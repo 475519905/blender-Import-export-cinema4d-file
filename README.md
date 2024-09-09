@@ -1,7 +1,9 @@
-author：https://www.bilibili.com/video/BV1YG411S7ia/
 <img width="495" alt="1" src="https://github.com/user-attachments/assets/0b215f08-5caf-4691-aec2-82262b928503">
 <img width="495" alt="2" src="https://github.com/user-attachments/assets/c3c6eb1e-7047-4ca6-a198-012a4cd1ecdd">
 <img width="310" alt="3" src="https://github.com/user-attachments/assets/6c8af83b-e6d3-4114-b410-b61c373115d1">
+
+
+author：https://www.bilibili.com/video/BV1YG411S7ia/
 请解压出.py文件后，直接在blender-偏好设置-拓展插件中安装
 首次安装请在插件设置 C4D的文件夹即可 
 
