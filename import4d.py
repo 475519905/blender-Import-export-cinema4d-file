@@ -1,3 +1,12 @@
+import bpy
+import os
+import subprocess
+from bpy.props import StringProperty, BoolProperty
+from bpy.types import Operator, AddonPreferences
+from bpy_extras.io_utils import ImportHelper
+import tempfile
+
+
 bl_info = {
     "name": "Import Maxon Cinema 4D File",
     "blender": (4, 2, 0),
@@ -6,14 +15,6 @@ bl_info = {
     "version": (1, 0, 0),
     "description": "Import Cinema 4D (.c4d) files and export to c4d, with options to include/exclude models, lights, cameras, splines, animations, and materials.",
 }
-
-import bpy
-import os
-import subprocess
-from bpy.props import StringProperty, BoolProperty
-from bpy.types import Operator, AddonPreferences
-from bpy_extras.io_utils import ImportHelper
-import tempfile
 
 class ImportMaxonCinema4DPreferences(AddonPreferences):
     bl_idname = __name__
