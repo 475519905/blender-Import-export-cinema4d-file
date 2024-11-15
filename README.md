@@ -6,7 +6,7 @@
 
 
 详细教程：https://www.yuque.com/shouwangxingkong-0p4w3/ldvruc/wn8pstg9pwd6r6mp?singleDoc# 密码：xxxi
-请解压出.py文件后，直接在blender-偏好设置-拓展插件中安装
+请将安装包直接在blender-偏好设置-拓展插件中安装
 首次安装请在插件设置 C4D的文件夹即可 
 
 如遇报错：请手动以右键管理员运行 "C:\Program Files\Maxon Cinema 4D 2023\c4dpy.exe"
